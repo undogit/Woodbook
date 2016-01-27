@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>proinstagramcarousel</name>
+	<displayName><![CDATA[Instagram images carousel]]></displayName>
+	<version><![CDATA[0.1]]></version>
+	<description><![CDATA[Display Instagram images carousel]]></description>
+	<author><![CDATA[procoder]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
