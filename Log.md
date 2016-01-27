@@ -20,4 +20,3 @@
 ## Ici on liste les liens utiles pour la mise en place du site
 
 - [Un mémo avec les balises principales du markdown](http://npoulain.fr/markdownMemo/)
-- TEST
