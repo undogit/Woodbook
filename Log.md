@@ -1,14 +1,14 @@
-# Journal des opÃ©rations rÃ©alisÃ©es sur le site de prod
+# Journal des opérations réalisées sur le site de prod
 ## ATTENTION A NE PAS FAIRE APPARAITRE DE MOT DE PASSE
 
 ### WhereTo
-- Header_logo a surchargÃ© en CSS (#header_logo)
+- Header_logo a surchargé en CSS (#header_logo)
 - 
 
 ### 05/01/2016
 - Mise en place du mode maintenance
-- DÃ©sactivation du Cache dans prÃ©fÃ©rence/performance
-- CrÃ©ation des profils webadmin
+- Désactivation du Cache dans préférence/performance
+- Création des profils webadmin
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-# BibliothÃ¨que
+# Bibliothéque
 ## Ici on liste les liens utiles pour la mise en place du site
 
-- [Un mÃ©mo avec les balises principales du markdown](http://npoulain.fr/markdownMemo/)
+- [Un mémo avec les balises principales du markdown](http://npoulain.fr/markdownMemo/)
